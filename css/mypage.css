@@ -1,0 +1,64 @@
+/* 主要内容容器样式 */
+.t {
+    border: 2px solid #ccc; /* 边框：2像素宽，实线，灰色 */
+    padding: 20px; /* 内边距：20像素 */
+    width: 60%; /* 宽度：占父容器的60% */
+    background-color: #f9f9f9; /* 背景颜色：浅灰色 */
+    border-radius: 10px; /* 边框圆角：10像素 */
+}
+
+/* 标题样式 */
+.header {
+    font-size: 24px; /* 字体大小：24像素 */
+    font-weight: bold; /* 字体粗细：粗体 */
+    margin-bottom: 20px; /* 下外边距：20像素 */
+}
+
+/* 用户信息区域样式 */
+.user-info {
+    margin-bottom: 20px; /* 下外边距：20像素 */
+    text-align: left; /* 文本左对齐 */
+}
+
+/* 用户信息段落样式 */
+.user-info p {
+    margin: 5px 0; /* 上下外边距5像素，左右0 */
+}
+
+/* 操作按钮区域样式 */
+.actions {
+    margin-bottom: 20px; /* 下外边距：20像素 */
+}
+
+/* 编辑和注销按钮通用样式 */
+.btn-edit, .btn-logout {
+    text-decoration: none; /* 去除下划线 */
+    color: white; /* 文字颜色：白色 */
+    padding: 10px 15px; /* 内边距：上下10像素，左右15像素 */
+    border-radius: 5px; /* 边框圆角：5像素 */
+    margin: 0 10px; /* 左右外边距：10像素 */
+}
+
+/* 编辑按钮特定样式 */
+.btn-edit {
+    background-color: #007bff; /* 背景颜色：蓝色 */
+}
+
+/* 注销按钮特定样式 */
+.btn-logout {
+    background-color: #dc3545; /* 背景颜色：红色 */
+}
+
+/* 用户帖子区域样式 */
+.user-posts {
+    margin-top: 20px; /* 上外边距：20像素 */
+    text-align: left; /* 文本左对齐 */
+}
+
+/* 用户帖子标题样式 */
+.user-posts h2 {
+    font-size: 20px; /* 字体大小：20像素 */
+    border-bottom: 2px solid #ccc; /* 底部边框：2像素宽，实线，灰色 */
+    padding-bottom: 5px; /* 底部内边距：5像素 */
+    margin-bottom: 10px; /* 下外边距：10像素 */
+}

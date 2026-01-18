@@ -1,0 +1,28 @@
+{
+    "name": "ウルトラ セブン",
+    "name_en": "ULTRASEVEN",
+    "mainImage": "image/M-78/SEVEN/SEVEN ICON.jpg",
+    "description": [
+        "M78星雲・光の国出身。宇宙警備隊の恒点観測員340号として、資源調査のために訪れた地球に魅了され、危機を救うために留まった。モロボシ・ダンという人間の姿を借りて、ウルトラ警備隊の一員として戦った。"
+    ],
+    "abilitiesTitle": "主な能力", 
+    "abilities":[
+        "エメリウム光線",
+        "ワイドショット",
+        "ウルトラ念力",
+        "カプセル怪獣",
+        "武器：アイスラッガー"
+    ],
+     "weaponsTitle": "武器",
+    "weapons": [
+        "アイスラッガー"
+    ],
+    "gallery": [        
+        "image/M-78/SEVEN/seven01.jpg",
+        "image/M-78/SEVEN/seven02.jpg", 
+        "image/M-78/SEVEN/seven03.jpg",
+        "image/M-78/SEVEN/seven04.jpg",
+        "image/M-78/SEVEN/ONE.jpg",
+        "image/M-78/SEVEN/Ultraseven.jpg"
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "name": "ウルトラマン タロウ",
+    "name_en": "ULTRAMAN TARO",
+    "mainImage": "image/M-78/TARO/TARO ICON.png",
+    "description": [
+        "ウルトラの父とウルトラの母の実子で、ウルトラ兄弟の6番目の弟。ウルトラ心臓「ウルトラハート」を持ち、戦闘能力はウルトラ兄弟の中でも最強クラスを誇る。",
+        "地球では、東光太郎という青年がウルトラバッジを使って変身した。他の兄弟とは異なり、人間と一体化せずに自らの意思で変身する能力を持つ。"
+    ],
+    "abilitiesTitle": "主な能力",
+    "abilities": [
+        "ストリウム光線",
+        "ネオストリウム光線",
+        "ウルトラダイナマイト",
+        "アトミックパンチ",
+        "シューティングビーム",
+        "タロウファイヤー",
+        "ウルトラフリーザー",
+        "リライブ光線",
+        "タロウバリヤー",
+        "コスモミラクル光線"
+    ],
+    "weaponsTitle": "武器",
+    "weapons": [
+        "ウルトラクラウン"
+    ],
+    "gallery": [
+        "image/M-78/TARO/TARO01.jpg",
+        "image/M-78/TARO/TARO02.png",
+        "image/M-78/TARO/TARO03.jpg",
+        "image/M-78/TARO/TARO04.jpg",
+        "image/M-78/TARO/ZAT01.jpg",
+        "image/M-78/TARO/ZAT02.jpg",        
+        "image/M-78/TARO/Ultraman Taro.jpg"
+    ]
+}

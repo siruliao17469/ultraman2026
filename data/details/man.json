@@ -1,0 +1,26 @@
+{
+    "name": "ウルトラマン",
+    "name_en": "ULTRAMAN",
+    "mainImage": "image/M-78/MAN/MAN ICON.jpg",
+    "description": [
+        "M78星雲・光の国からやってきた宇宙警備隊員。怪獣墓場へ護送中に逃亡した宇宙怪獣ベムラーを追って地球を訪れた。",
+        "ベムラーとの戦いで科学特捜隊のハヤタ・シン隊員を死なせてしまったため、彼に自らの命を与えて一心同体となり、地球の平和を守るために戦うことを決意する。"
+    ],
+    "abilitiesTitle": "主な能力",
+    "abilities": [
+        "スペシウム光線",
+        "八つ裂き光輪（ウルトラスラッシュ）",
+        "ウルトラ水流",
+        "ウルトラバリヤー",
+        "ウルトラ念力",
+        "テレポーテーション"
+    ],
+    "gallery": [
+        "image/M-78/MAN/MAN01.jpg",
+        "image/M-78/MAN/MAN02.jpg",
+        "image/M-78/MAN/MAN03.jpg",
+        "image/M-78/MAN/ONE.jpg",
+        "image/M-78/MAN/TWO.jpg",
+        "image/M-78/MAN/MAN.jpg"
+    ]
+}
