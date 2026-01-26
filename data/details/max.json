@@ -1,0 +1,33 @@
+{
+    "name": "ウルトラマンマックス",
+    "name_en": "ULTRAMAN MAX",
+    "mainImage": "image/M-78/MAX/MAX ICON.jpg",
+    "description": [
+        "M78星雲からやってきた「最速・最強」のウルトラマン。",
+        "地球の青年トウマ・カイトと一体化し、防衛チーム「DASH」と共に怪獣や宇宙人と戦う。",
+        "頭部の「マックススパーク」は、彼の力の源であり、必殺技を放つ際にも使用される。"
+    ],
+    "abilitiesTitle": "主な能力",
+    "abilities": [
+        {
+            "name": "マクシウムカノン",
+            "description": "マックススパークから放つ最強の必殺光線。"
+        }
+    ],
+    "weaponsTitle": "武器",
+    "weapons": [
+        {
+            "name": "マクシウムソード",
+            "description": "右腕に装着する光の剣。敵を切り裂く。"
+        },
+        {
+            "name": "ギャラクシーカノン",
+            "description": "ウルトラマンゼノンから授かった「マックスギャラクシー」から放つ強力な光線。"
+        }
+    ],
+    "gallery": [
+        "image/M-78/MAX/max01.jfif",
+        "image/M-78/MAX/max02.jpg",
+        "image/M-78/MAX/Ultraman Max.jpg"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "name": "ウルトラマン　フーマ",
+    "name_en": "ULTRAMAN FUMA",
+    "mainImage": "image/O-50/FUMA/FUMA ICON.jpg",
+    "description": "惑星O-50出身のウルトラマン。「風の覇者」の異名を持つ。トライスクワッドの一員として、ウルトラマンタイガ、ウルトラマンタイタスと共に活動する。素早い動きと多彩な忍術のような技で敵を翻弄する。",
+    "abilitiesTitle": "必殺技",
+    "abilities": [
+        {
+            "name": "極星光波手裏剣",
+            "description": "鋭い切れ味を持つ光の手裏剣を放つ。"
+        },
+        {
+            "name": "鋭星光波弾",
+            "description": "両腕から高速の光弾を連射する。"
+        }
+    ],
+    "gallery": [
+        "image/O-50/FUMA/FUMA ICON.jpg",
+        "image/O-50/FUMA/fuma01.jpg",
+        "image/O-50/FUMA/fuma02.jpg",
+        "image/O-50/FUMA/fuma.webp"
+    ]
+}

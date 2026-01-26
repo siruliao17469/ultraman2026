@@ -1,0 +1,44 @@
+{
+    "name": "ウルトラマン",
+    "name_en": "ULTRAMAN",
+    "mainImage": "image/M-78/MAN/MAN ICON.jpg",
+    "description": [
+        "M78星雲・光の国からやってきた宇宙警備隊員。怪獣墓場へ護送中に逃亡した宇宙怪獣ベムラーを追って地球を訪れた。",
+        "ベムラーとの戦いで科学特捜隊のハヤタ・シン隊員を死なせてしまったため、彼に自らの命を与えて一心同体となり、地球の平和を守るために戦うことを決意する。"
+    ],
+    "abilitiesTitle": "主な能力",
+    "abilities": [
+        {
+            "name": "スペシウム光線",
+            "description": "左右の腕を十字に組んで放つ、ウルトラマンの最も得意な必殺光線。"
+        },
+        {
+            "name": "八つ裂き光輪（ウルトラスラッシュ）",
+            "description": "スペシウムエネルギーをリング状にして敵を切り裂く。"
+        },
+        {
+            "name": "ウルトラ水流",
+            "description": "両腕から大量の水を噴射して、火災を消し止める。"
+        },
+        {
+            "name": "ウルトラバリヤー",
+            "description": "敵の攻撃を防ぐ長方形の光の壁を作り出す。"
+        },
+        {
+            "name": "ウルトラ念力",
+            "description": "敵の動きを封じたり、物体を動かしたりする。"
+        },
+        {
+            "name": "テレポーテーション",
+            "description": "瞬間移動能力。ただし、エネルギー消費が激しい。"
+        }
+    ],
+    "gallery": [
+        "image/M-78/MAN/man01.jpg",
+        "image/M-78/MAN/man02.jpg",
+        "image/M-78/MAN/man03.jpg",
+        "image/M-78/MAN/ONE.jpg",
+        "image/M-78/MAN/TWO.jpg",
+        "image/M-78/MAN/MAN.jpg"
+    ]
+}

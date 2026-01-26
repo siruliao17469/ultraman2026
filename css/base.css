@@ -1,0 +1,204 @@
+/* Basic page styles */
+body {
+    padding-top: 20px;
+}
+
+/* Box styling */
+.box {
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+/* Table cell padding */
+td {
+    padding: 10px;
+}
+
+/* Button styles */
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: #0056b3;
+}
+
+/* Page title */
+.page-title {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 20px;
+    border-bottom: 2px solid #007bff;
+    padding-bottom: 10px;
+}
+
+/* Main content area */
+.main-content {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+/* Post title in forms */
+.post-title {
+    font-size: 20px;
+    color: #333;
+}
+
+/* Wrapper for submit button */
+.submit-wrapper {
+    text-align: center;
+    margin-top: 20px;
+}
+
+/* Top right button area */
+.top-right-button-area {
+    text-align: right;
+    margin-bottom: 20px;
+}
+
+/* General link styles */
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+
+
+/* ========== Header Styles ========== */
+header {
+    padding: 10px 0;
+    /* We keep the background transparent to blend with the page */
+}
+
+.header-content {
+    max-width: 1200px; /* Or your preferred width */
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 15px;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 48px;
+    font-weight: bold; /* 新增：加粗字体 */
+}
+
+header h1 a {
+    color: #333;
+    text-decoration: none;
+}
+
+header nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
+header nav a {
+    text-decoration: none;
+    color: #555;
+    font-weight: bold;
+}
+
+header nav a:hover {
+    color: #007bff;
+}
+
+.user-info {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.user-info a {
+    text-decoration: none;
+    color: #555;
+}
+
+.user-info .avatar {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+
+/* ========== Login/Signup Button Styles ========== */
+/* General style for both buttons */
+.user-info a[href="login.html"],
+.user-info a[href="signup.html"] {
+    display: inline-block;
+    padding: 6px 12px;
+    border: 1px solid;
+    border-radius: 4px;
+    text-decoration: none !important; /* 强制去掉悬停时的下划线 */
+    transition: all 0.3s ease;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+/* Login button - secondary, outline style */
+.user-info a[href="login.html"] {
+    color: #007bff;
+    background-color: #ffffff;
+    border-color: #007bff;
+}
+
+.user-info a[href="login.html"]:hover {
+    color: #ffffff;
+    background-color: #007bff;
+}
+
+/* Signup button - primary, solid style */
+.user-info a[href="signup.html"] {
+    color: #ffffff;
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.user-info a[href="signup.html"]:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+}
+
+#auth-status a[href="mypage.html"].btn-primary {
+    background-color: #28a745; /* A pleasant Emerald Green color */
+    border-color: #28a745;
+    color: #fff; /* Ensure text is white and readable */
+}
+
+/* Style for when hovering over the button */
+#auth-status a[href="mypage.html"].btn-primary:hover {
+    background-color: #218838; /* A slightly darker green for hover effect */
+    border-color: #218838;
+}
+
+/* Option 2: Subtle Red Logout Button */
+#auth-status a[href="php/logout.php"] {
+    background-color: #d9534f;
+    border-color: #d9534f;
+    color: #fff;
+}
+
+#auth-status a[href="php/logout.php"]:hover {
+    background-color: #c9302c;
+    border-color: #ac2925;
+}

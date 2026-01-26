@@ -1,0 +1,39 @@
+{
+    "name": "ウルトラマン タイガ",
+    "name_en": "ULTRAMAN TAIGA",
+    "mainImage": "image/M-78/TAIGA/taiga icon.webp",
+    "description": "ウルトラマンタロウの息子。彼の中には、父タロウから受け継いだ熱い心と正義感が宿っている。タイタス、フーマと共に「トライスクワッド」を結成している。",
+    "abilities": [
+        {
+            "name": "ストリウムブラスター",
+            "description": "父タロウのストリウム光線を受け継いだ必殺光線。"
+        },
+        {
+            "name": "タイガスパーク",
+            "description": "ウルトラマンタイガへの変身や、能力を発動させる際に使用するアイテム。"
+        },
+        {
+            "name": "フォトンアース",
+            "description": "地球のエネルギーを宿した強化形態。黄金の鎧を身にまとう。"
+        },
+        {
+            "name": "トライストリウム",
+            "description": "タイガ、タイタス、フーマの三人の心が一つになった究極の形態。"
+        }
+    ],
+    "weapons": [
+        {
+            "name": "タイガトライブレード",
+            "description": "トライストリウム形態で使用する剣。三人のウルトラマンの力を宿している。"
+        }
+    ],
+    "gallery": [
+        "image/M-78/TAIGA/taiga01.jpg",
+        "image/M-78/TAIGA/taiga02.jpg",
+        "image/M-78/TAIGA/taiga03.jpg",
+        "image/M-78/TAIGA/taiga04.jpg",
+        "image/M-78/TAIGA/taiga05.jpg",
+        "image/M-78/TAIGA/taiga06.jpg",
+        "image/M-78/TAIGA/taiga07.jpg"
+    ]
+}

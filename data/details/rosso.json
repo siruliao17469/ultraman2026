@@ -1,0 +1,39 @@
+{
+    "name": "ウルトラマンロッソ",
+    "name_en": "ULTRAMAN ROSSO",
+    "mainImage": "image/O-50/ROSSO/rosso icon.jpg",
+    "description": "湊カツミが変身するウルトラマン。「火」のエレメントを宿し、炎を操る戦いを得意とする。弟のブルと共に、綾香市を守るために戦う。",
+    "abilitiesTitle": "必殺技",
+    "abilities": [
+        {
+            "name": "フレイムスフィアシュート",
+            "description": "火球を作り出し、敵に投げつける技。"
+        },
+        {
+            "name": "ストライクボンバー",
+            "description": "パンチと共に炎のエネルギーを叩き込む。"
+        }
+    ],
+    "weaponsTitle": "武器",
+    "weapons": [
+        {
+            "name": "ルーブスラッガーロッソ",
+            "description": "二本角の形をした武器。投擲したり、斬撃に使ったりする。"
+        }
+    ],
+    "gallery": [
+        "image/O-50/ROSSO/RB.avif",
+        "image/O-50/ROSSO/RB.jpg",
+        "image/O-50/ROSSO/Ruebe01.jpg",
+        "image/O-50/ROSSO/rosso01.jpg",
+        "image/O-50/ROSSO/ORB DARK01.jpg",
+        "image/O-50/ROSSO/ORB DARK02.jpg",
+        "image/O-50/ROSSO/rosso02.jpg",
+        "image/O-50/ROSSO/rosso04.jpg",
+        "image/O-50/ROSSO/Ultraman Rosso01.jpg",
+        "image/O-50/ROSSO/Ultraman Rosso02.jpg",
+        "image/O-50/ROSSO/Ultraman Rosso03.jpg",
+        "image/O-50/ROSSO/Ultraman Rosso04.jpg"
+        
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "name": "ウルトラマン メビウス",
+    "name_en": "ULTRAMAN MEBIUS",
+    "mainImage": "image/M-78/MEBIUS/MEBIUS ICON.jpg",
+    "description": [
+        "宇宙警備隊のルーキーとして地球に派遣された若きウルトラマン。",
+        "人間と深く交流し、仲間との絆の力で数々の困難を乗り越えて成長していく。",
+        "ウルトラ兄弟の一員として認められるまでに至った。"
+    ],
+    "abilitiesTitle": "主な能力",
+    "abilities": [
+        {
+            "name": "メビュームシュート",
+            "description": "メビウスブレスのエネルギーを両腕に集めて放つ必殺光線。"
+        },
+        {
+            "name": "ライトニングカウンター",
+            "description": "パンチやキックと共に、メビウスブレスから衝撃波を放つ。"
+        }
+    ],
+    "weaponsTitle": "武器",
+    "weapons": [
+        {
+            "name": "メビウスブレス",
+            "description": "左腕に装着している万能アイテム。メビウスの力の源であり、様々な能力を発動させる。"
+        },
+        {
+            "name": "メビュームブレード",
+            "description": "メビウスブレスから伸ばす光の剣。切れ味は抜群。"
+        },
+        {
+            "name": "ナイトブレス",
+            "description": "ウルトラマンヒカリから託されたブレスレット。メビウスブレイブへの変身や、メビュームナイトブレードの使用を可能にする。"
+        }
+    ],
+    "gallery": [
+        "image/M-78/MEBIUS/mebius01.jpg",
+        "image/M-78/MEBIUS/mebius02.jpg",
+        "image/M-78/MEBIUS/mebius03.jpg",
+        "image/M-78/MEBIUS/mebius04.jpg",
+        "image/M-78/MEBIUS/mebius05.jpg",
+        "image/M-78/MEBIUS/mebius06.jpg",
+        "image/M-78/MEBIUS/mebius07.jpg",
+        "image/M-78/MEBIUS/mebius09.jpg",
+        "image/M-78/MEBIUS/MEBIUS10.jpg",
+        "image/M-78/MEBIUS/mebius11.jpg",
+        "image/M-78/MEBIUS/mebius20.jpg",
+        "image/M-78/MEBIUS/MEBIUS90.jpg",
+        "image/M-78/MEBIUS/Ultraman Mebius.jpg",
+        "image/M-78/MEBIUS/Ultraman Mebius Brave.jpg",
+        "image/M-78/MEBIUS/Ultraman Mebius Burning Brave.jpg",
+        "image/M-78/MEBIUS/Ultraman Mebius Phoenix.jpg",
+        "image/M-78/MEBIUS/Ultraman Mebius Infinity.jpg"
+        ]
+}

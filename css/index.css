@@ -1,0 +1,38 @@
+/* 帖子列表区域 */
+.post-list {
+    margin-top: 20px;
+}
+
+.post-list h2 {
+    text-align: center;
+    color: #555;
+    margin-bottom: 30px;
+}
+
+/* 单个帖子样式 */
+.post-item {
+    background: #fff;
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.post-item h3 {
+    margin-top: 0;
+    color: #007bff;
+}
+
+.post-meta {
+    font-size: 0.9em;
+    color: #777;
+    margin-bottom: 15px;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 10px;
+}
+
+.post-content {
+    margin-top: 10px;
+    white-space: pre-wrap; /* 保持帖子内容的换行和空格 */
+}

@@ -1,0 +1,29 @@
+{
+    "name": "ウルトラマン ジョーニアス",
+    "name_en": "ULTRAMAN JONEUS",
+    "mainImage": "image/U-40/JONEUS/joneus icon.jpg",
+    "description": "U40出身のウルトラマン。地球では科学警備隊のヒカリ超一郎隊員と一体化して活動する。ウルトラマンシリーズ初のアニメ作品の主役である。",
+    "abilitiesTitle": "必殺技",
+    "abilities": [
+        {
+            "name": "プラニウム光線",
+            "description": "両腕をL字型に組んで放つ必殺光線。ジョーニアスの最も強力な技。"
+        },
+        {
+            "name": "アストロビーム",
+            "description": "額のスターシンボルから放つビーム。"
+        }
+    ],
+    "gallery": [
+        "image/U-40/JONEUS/amia.webp",
+        "image/U-40/JONEUS/mutsumi.webp",
+        "image/U-40/JONEUS/joneus01.webp",
+        "image/U-40/JONEUS/joneus02.jpg",
+        "image/U-40/JONEUS/joneus04.jpg",
+        "image/U-40/JONEUS/joneus05.jpg",
+        "image/U-40/JONEUS/joneus06.jpg",
+        "image/U-40/JONEUS/joneus07.jpg",
+        "image/U-40/JONEUS/joneus3.jpg"
+        
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "ウルトラマンゼアス",
+    "name_en": "ULTRAMAN ZEARTH",
+    "mainImage": "image/Z-95/zearth icon.webp",
+    "description": "Z95星雲出身のウルトラマン。極度の潔癖症だが、地球を汚す悪に対しては勇敢に立ち向かう。出光興産のCMキャラクターとして誕生した。",
+    "abilities": [
+        {
+            "name": "スペシュッシュラ光線",
+            "description": "両腕を十字に組んで放つ必殺光線。名前の通り、独特の発射音が特徴。"
+        },
+        {
+            "name": "ゼアス・キック",
+            "description": "強力なエネルギーを足に集中させて放つキック。"
+        }
+    ],
+    "gallery": [
+        "image/Z-95/zearth01.jpg",
+        "image/Z-95/zearth02.jpg",
+        "image/Z-95/zearth03.jpg",
+        "image/Z-95/zearth04.jpg",
+        "image/Z-95/zearth05.jpg",
+        "image/Z-95/zearth06.jpg",
+        "image/Z-95/zearth07.jpg",
+        "image/Z-95/zearth08.jpg",
+        "image/Z-95/zearth09.jpg"
+    ]
+}

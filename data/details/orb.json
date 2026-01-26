@@ -1,0 +1,46 @@
+{
+    "name": "ウルトラマン　オーブ",
+    "name_en": "ULTRAMAN ORB",
+    "mainImage": "image/O-50/ORB/orb icon.jpg",
+    "description": "惑星O-50の「戦士の頂」で光を授かり誕生したウルトラマン。銀河の果てからやってきた風来坊、クレナイ・ガイが変身する。歴代ウルトラ戦士の力を借りて、様々な姿にフュージョンアップ（変身）する能力を持つ。",
+    "abilitiesTitle": "必殺技",
+    "abilities": [
+        {
+            "name": "スペリオン光線",
+            "description": "スペシウムゼペリオンの姿で放つ必殺光線。初代ウルトラマンとウルトラマンティガの力を合わせている。"
+        },
+        {
+            "name": "オーブスプリームカリバー",
+            "description": "オーブオリジンの姿で使う聖剣「オーブカリバー」から放つ最強の必殺技。"
+        }
+    ],
+    "weaponsTitle": "武器",
+    "weapons": [
+        {
+            "name": "オーブカリバー",
+            "description": "オーブオリジンの姿で現れる聖剣。多彩な属性攻撃を繰り出すことができる。"
+        }
+    ],
+    "gallery": [
+        "image/O-50/ORB/orb01.jpg",
+        "image/O-50/ORB/orb02.jpg",
+        "image/O-50/ORB/orb03.jpg",
+        "image/O-50/ORB/orb04.jpg",
+        "image/O-50/ORB/orb05.jpg",
+        "image/O-50/ORB/orb06.jpg",
+        "image/O-50/ORB/orb07.jpg",
+        "image/O-50/ORB/orb08.jpg",
+        "image/O-50/ORB/orb09.jpg",
+        "image/O-50/ORB/orb10.jpg",
+        "image/O-50/ORB/orb00.avif",
+        "image/O-50/ORB/ultraman orb01.jpg",
+        "image/O-50/ORB/ultraman orb02.jpg",
+        "image/O-50/ORB/ultraman orb03.jpg",
+        "image/O-50/ORB/ultraman orb04.jpg",
+        "image/O-50/ORB/ultraman orb05.jpg",
+        "image/O-50/ORB/ultraman orb06.jpg",
+        "image/O-50/ORB/ultraman orb07.jpg",
+        "image/O-50/ORB/ultraman orb08.jpg",
+        "image/O-50/ORB/ultraman orb09.jpg"
+    ]
+}

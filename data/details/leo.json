@@ -1,0 +1,42 @@
+{
+    "name": "ウルトラマンレオ",
+    "name_en": "ULTRAMAN LEO",
+    "mainImage": "image/L-77/LEO/LEO ICON.webp",
+    "description": [
+        "L77星雲出身のウルトラマンで、故郷をマグマ星人に滅ぼされた過去を持つ。",
+        "地球ではおおとりゲンとして生き、宇宙パトロール隊MAC（Monster Attacking Crew）の隊員として活動しながら、モロボシ・ダン（ウルトラセブン）の厳しい指導のもと、怪獣や星人と戦い抜いた。",
+        "得意の宇宙拳法を駆使した格闘技は、ウルトラ兄弟の中でも屈指の実力を持つ。"
+    ],
+    "abilitiesTitle": "必殺技",
+    "abilities": [
+        {
+            "name": "レオキック",
+            "description": "空中から放つ強力な飛び蹴り。レオの最も得意とする技。"
+        },
+        {
+            "name": "シューティングビーム",
+            "description": "手から放つ破壊光線。レオが持つ数少ない光線技の一つ。"
+        },
+        {
+            "name": "エネルギー光球",
+            "description": "体内のエネルギーを凝縮して放つ光の球。"
+        }
+    ],
+    "weaponsTitle": "武器",
+    "weapons": [
+        {
+            "name": "レオヌンチャク",
+            "description": "レオが変身能力を失った際に、セブンの助言で作り出した武器。煙突をヌンチャクとして使用する。"
+        }
+    ],
+    "gallery": [
+        "image/L-77/LEO/leo02.jpg",
+        "image/L-77/LEO/leo03.jpg",
+        "image/L-77/LEO/leo04.jpg",
+        "image/L-77/LEO/leo05.jpg",
+        "image/L-77/LEO/leo07.jpg",
+        "image/L-77/LEO/mac01.jpg",
+        "image/L-77/LEO/mac02.jpg",
+        "image/L-77/LEO/Ultraman Leo.jpg"
+    ]
+}

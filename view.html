@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>投稿詳細</title>
+    <link rel="icon" href="image/icons/X.jfif">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/base.css">
+    <style>
+        .comment-replies {
+            margin-left: 40px;
+            border-left: 2px solid #eee;
+            padding-left: 15px;
+        }
+        .reply-form {
+            margin-left: 40px;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <!-- 标准化 Header -->
+    <header>
+        <div class="header-content">
+            <h1><a href="index.html">ULTRA</a></h1>
+            <nav>
+                <ul>
+                    <li><a href="category.html?series=m78_l77">M-78 / L-77</a></li>
+                    <li><a href="category.html?series=earth">地球</a></li>
+                    <li><a href="category.html?series=o50">O-50</a></li>
+                    <li><a href="category.html?series=u40">U-40</a></li>
+                    <li><a href="category.html?series=z95">Z-95</a></li>
+                    <li><a href="category.html?series=n_project">N Project</a></li>
+                    <li><a href="category.html?series=other">その他</a></li>
+                </ul>
+            </nav>
+            <div class="user-info" id="auth-status">
+                <!-- 登录状态会显示在这里 -->
+            </div>
+        </div>
+    </header>
+
+    <!-- 主要内容和页脚位于 container 内部 -->
+    <div class="container">
+        <main>
+            <div id="post-detail">
+                <!-- 投稿の詳細はここに動的に挿入されます -->
+            </div>
+
+            <hr>
+
+            <h3>コメント</h3>
+            <div id="comment-list">
+                <!-- コメントはここに動的に挿入されます -->
+            </div>
+
+            <form id="comment-form" class="mt-4">
+                <div class="mb-3">
+                    <label for="comment-content" class="form-label\">コメントを追加</label>
+                    <textarea class="form-control" id="comment-content" name="content" rows="3" required></textarea>
+                </div>
+                <div class="d-flex justify-content-between">
+                    <button type="submit" class="btn btn-primary">コメントする</button>
+                    <a href="index.html" class="btn btn-secondary">ホームページに戻る</a>
+                </div>
+            </form>
+            <div id="comment-message" class="mt-3"></div>
+        </main>
+
+        <footer class="text-center mt-4">
+            <p>&copy; 2025 Ultra</p>
+        </footer>
+    </div>
+
+    <script src="js/auth.js"></script>
+    <script src="js/view.js"></script>
+</body>
+</html>

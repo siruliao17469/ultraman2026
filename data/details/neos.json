@@ -1,0 +1,29 @@
+{
+    "name": "ウルトラマン ネオス",
+    "name_en": "ULTRAMAN NEOS",
+    "mainImage": "image/M-78/NEOS/NEOS.jpg",
+    "description": [
+        "M78星雲・光の国「勇士司令部」に所属するウルトラマン。",
+        "地球の危機に際し、HEARTの隊員カグラ・ゲンキと一体化して戦った。",
+        "伝統的なウルトラマンのスタイルを踏襲しつつ、より力強いファイトスタイルを持つ。"
+    ],
+    "abilitiesTitle": "主な能力",
+    "abilities": [
+        {
+            "name": "ネオ・マグニウム光線",
+            "description": "両腕を十字に組んで放つ必殺光線。初代ウルトラマンのスペシウム光線に匹敵する威力を持つ。"
+        },
+        {
+            "name": "ウルトラ・エディ・ビーム",
+            "description": "頭部のビームランプから放つ光線。敵を麻痺させる効果がある。"
+        },
+        {
+            "name": "マルチ・ビーム",
+            "description": "両手から連続して放つ小型の光弾。"
+        }
+    ],
+    "gallery": [
+        "image/M-78/NEOS/NEOS01.jpg",
+        "image/M-78/NEOS/NEOS02.jpg"
+    ]
+}

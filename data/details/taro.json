@@ -1,0 +1,68 @@
+{
+    "name": "ウルトラマン タロウ",
+    "name_en": "ULTRAMAN TARO",
+    "mainImage": "image/M-78/TARO/TARO ICON.png",
+    "description": [
+        "ウルトラの父とウルトラの母の実子で、ウルトラ兄弟の6番目の弟。ウルトラ心臓「ウルトラハート」を持ち、戦闘能力はウルトラ兄弟の中でも最強クラスを誇る。",
+        "地球では、東光太郎という青年がウルトラバッジを使って変身した。他の兄弟とは異なり、人間と一体化せずに自らの意思で変身する能力を持つ。"
+    ],
+    "abilitiesTitle": "主な能力",
+    "abilities": [
+        {
+            "name": "ストリウム光線",
+            "description": "タロウの必殺光線。両腕をT字型に組んで放つ。"
+        },
+        {
+            "name": "ネオストリウム光線",
+            "description": "ストリウム光線をさらに強化した光線。"
+        },
+        {
+            "name": "ウルトラダイナマイト",
+            "description": "自らの体を炎に包んで敵に突撃し、大爆発を起こす捨て身の技。ウルトラ心臓を持つタロウだからこそ使用できる。"
+        },
+        {
+            "name": "アトミックパンチ",
+            "description": "強力なパンチを連続で繰り出す。"
+        },
+        {
+            "name": "シューティングビーム",
+            "description": "両手から放つ光弾。"
+        },
+        {
+            "name": "タロウファイヤー",
+            "description": "口から放射する火炎。"
+        },
+        {
+            "name": "ウルトラフリーザー",
+            "description": "敵を凍結させる冷凍ガス。"
+        },
+        {
+            "name": "リライブ光線",
+            "description": "エネルギーを分け与え、対象を蘇生させる光線。"
+        },
+        {
+            "name": "タロウバリヤー",
+            "description": "光の壁を作り出し、敵の攻撃を防ぐ。"
+        },
+        {
+            "name": "コスモミラクル光線",
+            "description": "ウルトラ6兄弟のエネルギーを結集して放つ超必殺光線。"
+        }
+    ],
+    "weaponsTitle": "武器",
+    "weapons": [
+        {
+            "name": "ウルトラクラウン",
+            "description": "頭部の角。ブーメランのように投げて使用する。"
+        }
+    ],
+    "gallery": [
+        "image/M-78/TARO/taro01.jpg",
+        "image/M-78/TARO/taro02.png",
+        "image/M-78/TARO/taro03.jpg",
+        "image/M-78/TARO/taro04.jpg",
+        "image/M-78/TARO/ZAT01.jpg",
+        "image/M-78/TARO/ZAT02.jpg",
+        "image/M-78/TARO/Ultraman Taro.jpg"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "name": "マリー",
+    "name_en": "MARIE",
+    "mainImage": "image/M-78/MARIE/Marie ICON.jpg",
+    "description": [
+        "「ウルトラの母」の称号を持つ、銀河十字軍の隊長。",
+        "医療活動を得意とし、多くのウルトラ戦士を救ってきた。",
+        "ウルトラの父の妻であり、ウルトラマンタロウの実母でもある。"
+    ],
+    "abilitiesTitle": "能力",
+    "abilities": [
+        {
+            "name": "マザー光線",
+            "description": "負傷した戦士を治療する回復光線。"
+        },
+        {
+            "name": "マザーシャワー",
+            "description": "対象の汚れや毒素を浄化する光線。"
+        },
+        {
+            "name": "銀十字勲章",
+            "description": "銀河十字軍の隊長である証であり、エネルギー源でもある。"
+        }
+    ],
+    "gallery": [
+        "image/M-78/MARIE/Mother of Ultra (Marie).jpg"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "ユリアン",
+    "name_en": "YULLIAN",
+    "mainImage": "image/M-78/YULLIAN/Yullian ICON.jpg",
+    "description": [
+        "M78星雲・光の国の王女。ウルトラマン80の幼なじみ。",
+        "ガルタン大王に追われて地球へやってきた。",
+        "地球では星涼子「ほしりょうこ」としてUGMの見習い隊員となり、80と共に戦った。"
+    ],
+    "abilitiesTitle": "能力",
+    "abilities": [
+        {
+            "name": "プリンセスレイ",
+            "description": "両腕を十字に組んで放つ光線。威力は低いが、敵を怯ませる効果がある。"
+        },
+        {
+            "name": "ウーマンラッシュ",
+            "description": "敵に連続でチョップを繰り出す格闘技。"
+        }
+    ],
+    "gallery": [
+        "image/M-78/YULLIAN/YLA01.jpg",
+        "image/M-78/YULLIAN/YLA02.jpg",
+        "image/M-78/YULLIAN/YLA03.jpg",
+        "image/M-78/YULLIAN/YLA04.jpg"
+    ]
+}

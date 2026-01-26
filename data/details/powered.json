@@ -1,0 +1,40 @@
+{
+    "name": "ウルトラマンパワード",
+    "name_en": "ULTRAMAN POWERED",
+    "mainImage": "image/M-78/POWERED/POWERED ICON.webp",
+    "description": [
+        "アメリカで活躍した、M78星雲出身のウルトラマン。",
+        "怪獣撃滅部隊「W.I.N.R.」のケンイチ・カイ隊員と一体化し、バルタン星人や様々な怪獣と戦った。",
+        "青い瞳と、戦闘中に感情が高ぶると赤に変わるカラータイマーが特徴。"
+    ],
+    "abilitiesTitle": "主な能力",
+    "abilities": [
+        {
+            "name": "メガ・スペシウム光線",
+            "description": "パワードの最強必殺技。両腕を十字に組んで放つ、通常のスペシウム光線の数倍の威力を持つ光線。"
+        },
+        {
+            "name": "パワード・スラッシュ",
+            "description": "手から放つ光輪。敵を切断する。"
+        },
+        {
+            "name": "エナジー・ナックル",
+            "description": "拳にエネルギーを集中させて放つパンチ。"
+        },
+        {
+            "name": "テレパシー",
+            "description": "精神力で相手と意思疎通を図る能力。"
+        }
+    ],
+    "gallery": [
+        
+        "image/M-78/POWERED/powered.webp",
+        "image/M-78/POWERED/powered01.jpg",
+        "image/M-78/POWERED/powered02.jpg",
+        "image/M-78/POWERED/powered03.jpg",
+        "image/M-78/POWERED/powered05.jpg",
+        "image/M-78/POWERED/powered06.jpg",
+        "image/M-78/POWERED/powered07.jpg",
+        "image/M-78/POWERED/Ultraman Powered.jpg"
+    ]
+}

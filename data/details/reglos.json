@@ -1,0 +1,28 @@
+{
+    "name": "ウルトラマン レグロス",
+    "name_en": "ULTRAMAN REGULOS",
+    "mainImage": "image/L-77/REGULOS/REGULOS ICON.jpg",
+    "description": [
+        "謎に包まれたウルトラマン。その正体は、獅子座L77星の出身で、宇宙拳法「コスモ幻獣拳」の使い手。",
+        "アブソリューティアンとの戦いに身を投じる。",
+        "電撃を纏った強力な拳法で戦う。"
+    ],
+    "abilitiesTitle": "主な能力",
+    "abilities": [
+        {
+            "name": "赤龍白虎拳",
+            "description": "炎の赤龍と雷の白虎を宿したコスモ幻獣拳の奥義。"
+        },
+        {
+            "name": "雷撃白虎拳",
+            "description": "高速の連続攻撃と共に、強力な電撃を叩き込む。"
+        }
+    ],
+    "gallery": [
+        "image/L-77/REGULOS/regulos01.jpg",
+        "image/L-77/REGULOS/regulos02.webp",
+        "image/L-77/REGULOS/regulos03.webp",
+        "image/L-77/REGULOS/regulos04.webp",
+        "image/L-77/REGULOS/Ultraman Regulos.jpg"
+    ]
+}

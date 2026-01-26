@@ -1,0 +1,44 @@
+{
+    "name": "ウルトラマン リブット",
+    "name_en": "ULTRAMAN RIBUT",
+    "mainImage": "image/M-78/RIBUT/ribut ICON.webp",
+    "description": [
+        "マレーシアで誕生したウルトラマン。",
+        "銀河救援隊の一員として、宇宙の平和を守るために戦う。",
+        "格闘技に優れ、特にシラットをベースにした戦闘スタイルが特徴。"
+    ],
+    "abilitiesTitle": "必殺技",
+    "abilities": [
+        {
+            "name": "ギャラクシウムブラスター",
+            "description": "右腕のリブットブロッカーから放つ強力な破壊光線。"
+        },
+        {
+            "name": "ストロングネット",
+            "description": "光の網を放ち、敵を捕らえる。"
+        },
+        {
+            "name": "リブットキック",
+            "description": "シラットの動きを取り入れた強力なキック。"
+        }
+    ],
+    "weaponsTitle": "武器",
+    "weapons": [
+        {
+            "name": "リブットブロッカー",
+            "description": "左腕に装着された盾。防御だけでなく、光線を放つこともできる。"
+        },
+        {
+            "name": "スプレッダーロッド",
+            "description": "伸縮自在の棒状の武器。打撃や敵の拘束に使用する。"
+        }
+    ],
+    "gallery": [
+        "image/M-78/RIBUT/ribut01.jpg",
+        "image/M-78/RIBUT/ribut02.jpg",
+        "image/M-78/RIBUT/ribut04.jpg",
+        "image/M-78/RIBUT/ribut05.jpg",
+        "image/M-78/RIBUT/ribut06.jpg",
+        "image/M-78/RIBUT/Ultraman Ribut.jpg"
+    ]
+}

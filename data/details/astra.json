@@ -1,0 +1,32 @@
+{
+    "name": "アストラ",
+    "name_en": "ASTRA",
+    "mainImage": "image/L-77/ASTRA/ASTRA ICON.webp",
+    "description": [
+        "ウルトラマンレオの双子の弟。兄のレオと共に故郷の獅子座L77星をマグマ星人に滅ぼされたが、ウルトラマンキングに救われ、彼の元で修行を積んでいた。レオが地球でピンチに陥った際に駆けつけ、以降、兄弟で力を合わせて戦う。"
+    ],
+    "abilitiesTitle": "主な能力",
+    "abilities": [
+        {
+            "name": "アストラキック",
+            "description": "兄のレオキックに匹敵する威力を持つ強力なキック。"
+        },
+        {
+            "name": "ウルトラリダクション",
+            "description": "自身の体を縮小させる能力。"
+        },
+        {
+            "name": "ウルトラダブルフラッシャー",
+            "description": "レオとの合体光線。兄弟のエネルギーを合わせて放つ強力な技。"
+        }
+    ],
+    "gallery": [
+       
+        "image/L-77/ASTRA/ASTRA01.jpg",
+        "image/L-77/ASTRA/ASTRA02.jpg",
+        "image/L-77/ASTRA/ASTRA03.jpg",
+        "image/L-77/ASTRA/ASTRA05.jpg",
+        "image/L-77/ASTRA/ASTRA10.avif",
+        "image/L-77/ASTRA/Astra.jpg"
+    ]
+}

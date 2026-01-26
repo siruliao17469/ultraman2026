@@ -1,0 +1,23 @@
+{
+    "name": "ウルトラマン　タイタス",
+    "name_en": "ULTRAMAN TITAS",
+    "mainImage": "image/U-40/TITAS/titas icon.png",
+    "description": "U40出身のウルトラマンであり、「力の賢者」の異名を持つ。トライスクワッドの一員として、ウルトラマンタイガ、ウルトラマンフーマと共に活動する。冷静沈着で、パワーを活かした戦いを得意とする。",
+    "abilitiesTitle": "必殺技",
+    "abilities": [
+        {
+            "name": "プラニウムバスター",
+            "description": "両腕から放つ強力なエネルギー光線。"
+        },
+        {
+            "name": "アストロビーム",
+            "description": "額のスターシンボルから放つビーム。"
+        }
+    ],
+    "gallery": [
+        "image/U-40/TITAS/titas01.jpg",
+        "image/U-40/TITAS/titas02.jpg",
+        "image/U-40/TITAS/titas03.jpg",
+        "image/U-40/TITAS/titas04.jpg"
+    ]
+}

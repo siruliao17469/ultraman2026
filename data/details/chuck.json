@@ -1,0 +1,27 @@
+{
+    "name": "ウルトラマンチャック",
+    "name_en": "ULTRAMAN CHUCK",
+    "mainImage": "image/M-78/CHUCK/chuck icon.jpg",
+    "description": [
+        "ウルトラフォースのメンバー。",
+        "スコット、ベスと共に地球で活躍した。",
+        "冷静で分析力に優れ、チームの作戦立案を担当することが多い。"
+    ],
+    "abilitiesTitle": "主な能力",
+    "abilities": [
+        {
+            "name": "ウルトラ・バブル・ビーム",
+            "description": "泡状の光線を放ち、敵を包み込んで動きを封じる。"
+        },
+        {
+            "name": "ウルトラ・アタック・ビーム",
+            "description": "両腕を十字に組んで放つ強力な破壊光線。"
+        }
+    ],
+    "weaponsTitle": "武器",
+    "weapons": [],
+    "gallery": [
+        "image/M-78/CHUCK/chuck icon.jpg",
+        "image/M-78/CHUCK/usa.jpg"
+    ]
+}

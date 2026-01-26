@@ -1,0 +1,43 @@
+{
+    "name": "ケン",
+    "name_en": "KEN",
+    "mainImage": "image/M-78/KEN/ken icon.jpg",
+    "description": [
+        "「ウルトラの父」の称号を持つ、宇宙警備隊の大隊長。",
+        "M78星雲・光の国で、5万年以上も宇宙の平和のために戦い続けている伝説の英雄。",
+        "実の息子にウルトラマンタロウ、養子にウルトラマンエースがいる。"
+    ],
+    "abilitiesTitle": "必殺技",
+    "abilities": [
+        {
+            "name": "クレッセントショット",
+            "description": "三日月状のエネルギー光弾。"
+        },
+        {
+            "name": "ファザーショット",
+            "description": "右腕から放つ強力な破壊光線。"
+        }
+    ],
+    "weaponsTitle": "武器",
+    "weapons": [
+        {
+            "name": "ウルトラアレイ",
+            "description": "先端から放つ光で怪獣を元の姿に戻したり、エネルギーを与えることができる万能アイテム。"
+        },
+        {
+            "name": "ブラザーマント",
+            "description": "宇宙警備隊の隊長クラスのみが着用を許されるマント。"
+        },
+        {
+            "name": "ウルトラフェザー",
+            "description": "頭部の羽を飛ばして敵を切り裂く。"
+        }
+    ],
+    "gallery": [
+        "image/M-78/KEN/Father of Ultra (Ken).jpg",
+        "image/M-78/KEN/KEN.png",
+        "image/M-78/KEN/Ultraman Ken.jpg",
+        "image/M-78/KEN/BK.jpg",
+        "image/M-78/KEN/ken01.jpg"
+    ]
+}

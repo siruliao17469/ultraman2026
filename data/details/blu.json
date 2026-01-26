@@ -1,0 +1,38 @@
+{
+    "name": "ウルトラマンブル",
+    "name_en": "ULTRAMAN BLU",
+    "mainImage": "image/O-50/BLU/blu icon.jpg",
+    "description": "湊イサミが変身するウルトラマン。「水」のエレメントを宿し、水を自在に操る戦いを得意とする。兄のロッソと共に、綾香市を守るために戦う。",
+    "abilitiesTitle": "必殺技",
+    "abilities": [
+        {
+            "name": "アクアストリューム",
+            "description": "強力な水流を発射する技。"
+        },
+        {
+            "name": "スプラッシュボム",
+            "description": "水のエネルギー弾を作り出し、敵に放つ。"
+        }
+    ],
+    "weaponsTitle": "武器",
+    "weapons": [
+        {
+            "name": "ルーブスラッガーブル",
+            "description": "一本角の形をした武器。投擲したり、斬撃に使ったりする。"
+        }
+    ],
+    "gallery": [
+        "image/O-50/BLU/RB02.jpg",
+        "image/O-50/BLU/ORB DARK.jpg",
+        "image/O-50/BLU/RB03.jpg",
+        "image/O-50/BLU/RB04.jpg",
+        "image/O-50/BLU/blu00.jpg",
+        "image/O-50/BLU/blu04.jpg",
+        "image/O-50/BLU/rb01.jpg",
+        "image/O-50/BLU/Ultraman Blu01.jpg",
+        "image/O-50/BLU/Ultraman Blu02.jpg",
+        "image/O-50/BLU/Ultraman Blu03.jpg",
+        "image/O-50/BLU/Ultraman Blu04.jpg",
+        "image/O-50/BLU/Ultraman Ruebe.jpg"
+    ]
+}

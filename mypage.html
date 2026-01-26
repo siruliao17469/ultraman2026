@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>マイページ</title>
+    
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/base.css">
+    <link rel="stylesheet" href="css/mypage.css">
+</head>
+<body>
+    <!-- 标准化 Header -->
+    <header>
+        <div class="header-content">
+            <h1><a href="index.html">ULTRA</a></h1>
+            <nav>
+                <ul>
+                    <li><a href="category.html?series=m78_l77">M-78 / L-77</a></li>
+                    <li><a href="category.html?series=earth">地球</a></li>
+                    <li><a href="category.html?series=o50">O-50</a></li>
+                    <li><a href="category.html?series=u40">U-40</a></li>
+                    <li><a href="category.html?series=z95">Z-95</a></li>
+                    <li><a href="category.html?series=n_project">N Project</a></li>
+                    <li><a href="category.html?series=other">その他</a></li>
+                </ul>
+            </nav>
+            <div class="user-info" id="auth-status">
+                <!-- 登录状态会显示在这里 -->
+            </div>
+        </div>
+        
+    </header>
+
+    <div class="container">
+
+        <main>
+            <h2 class="page-title">マイページ</h2>
+
+            <div id="profile-section">
+                <h3>プロフィール</h3>
+                <div class="text-center mb-3">
+                    <img id="profile-avatar" src="image/default_avatar.png" alt="User Avatar" class="rounded-circle" style="width: 150px; height: 150px; object-fit: cover;">
+                </div>
+                <div id="profile-info">
+                    <p><strong>ユーザー名:</strong> <span id="profile-username"></span></p>
+                    <p><strong>年齢:</strong> <span id="profile-age"></span></p>
+                    <p><strong>性別:</strong> <span id="profile-gender"></span></p>
+                    <p><strong>地区:</strong> <span id="profile-region"></span></p>
+                    <p><strong>最も好きなウルトラマン:</strong> <span id="profile-favorite-ultraman"></span></p>
+                    <p><strong>自己紹介:</strong></p>
+                    <p id="profile-bio" style="white-space: pre-wrap;"></p>
+                </div>
+                <a href="edit_profile.html" class="btn btn-primary">プロフィール編集</a>
+                <button id="delete-account-btn" class="btn btn-danger ms-2">アカウントを削除する</button>
+            </div>
+
+            <div id="posts-section" class="mt-4">
+                <div class="d-flex justify-content-between align-items-center">
+                    <h3>自分の投稿</h3>
+                    <a href="create_post.html" class="btn btn-success">新規投稿</a>
+                </div>
+                <div id="post-list" class="row mt-3">
+                    <!-- 投稿がここに表示されます -->
+                </div>
+            </div>
+        </main>
+
+        <footer class="text-center mt-4">
+            <p>&copy; 2025 Ultra</p>
+        </footer>
+    </div>
+
+    <script src="js/auth.js"></script>
+    <script src="js/mypage.js"></script>
+</body>
+</html>

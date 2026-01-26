@@ -1,0 +1,33 @@
+{
+    "name": "ウルトラマンエイティ",
+    "name_en": "ULTRAMAN EIGHTY",
+    "mainImage": "image/M-78/EIGHTY/EIGHTY ICON.webp",
+    "description": [
+        "M78星雲・光の国からやってきたウルトラ戦士。",
+        "地球では中学校の教師・矢的猛（やまとたけし）として、人間のマイナスエネルギーが怪獣を生み出す原因を探っていた。",
+        "「ウルトラマン先生」として、生徒たちとの交流を通じて地球の平和を守った。"
+    ],
+    "abilitiesTitle": "主な能力",
+    "abilities": [
+        {
+            "name": "サクシウム光線",
+            "description": "両腕をL字型に組んで放つエイティの必殺光線。"
+        },
+        {
+            "name": "バックルビーム",
+            "description": "ベルトのバックルから放つ破壊光線。"
+        },
+        {
+            "name": "ウルトラレイランス",
+            "description": "手から放つ光の槍。敵を貫く。"
+        }
+    ],
+    "gallery": [
+        "image/M-78/EIGHTY/EIGHTY.jpg",
+        "image/M-78/EIGHTY/eighty01.jpg",
+        "image/M-78/EIGHTY/eighty02.jpg",
+        "image/M-78/EIGHTY/eighty03.jpg",
+        "image/M-78/EIGHTY/eighty04.jpg",
+        "image/M-78/EIGHTY/eighty09.jpg"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "ウルトラマンスコット",
+    "name_en": "ULTRAMAN SCOTT",
+    "mainImage": "image/M-78/SCOTT/scott icon.jpg",
+    "description": [
+        "ウルトラフォースのリーダー。",
+        "熱血漢で、チームを力強く引っ張っていく存在。",
+        "パワフルな戦闘を得意とし、最前線で戦うことが多い。"
+    ],
+    "abilitiesTitle": "主な能力",
+    "abilities": [
+        {
+            "name": "グラニウム光線",
+            "description": "両腕をL字に組んで放つ強力な破壊光線。"
+        },
+        {
+            "name": "ウルトラ・スライサー",
+            "description": "手から放つ光のカッター。敵を切り裂く。"
+        }
+    ],
+    "weaponsTitle": "武器",
+    "weapons": [],
+    "gallery": [
+        "image/M-78/SCOTT/scott icon.jpg",
+        "image/M-78/SCOTT/scott04.jpg"
+    ]
+}

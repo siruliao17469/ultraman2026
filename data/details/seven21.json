@@ -1,0 +1,30 @@
+{
+    "name": "ウルトラ セブン21",
+    "name_en": "ULTRA SEVEN21",
+    "mainImage": "image/M-78/SEVEN21/seven21 ICON.webp",
+    "description": [
+        "M78星雲・光の国の宇宙保安庁に所属するエリート隊員。",
+        "ウルトラマンネオスの頼れる相棒として、地球の平和を守るために戦う。",
+        "冷静沈着な性格で、的確な判断力と多彩な技でネオスをサポートする。"
+    ],
+    "abilitiesTitle": "主な能力",
+    "abilities": [
+        {
+            "name": "レジア・ショット",
+            "description": "右腕から放つ強力な破壊光線。セブン21の必殺技。"
+        },
+        {
+            "name": "ヴェルザード",
+            "description": "頭部の宇宙ブーメラン。敵を切り裂く。"
+        },
+        {
+            "name": "アドリウム光線",
+            "description": "両腕をL字に組んで放つ光線。ネオスとの合体技もある。"
+        }
+    ],
+    "gallery": [
+        "image/M-78/SEVEN21/seven21.jpg",
+        "image/M-78/SEVEN21/seven21 01.webp",
+        "image/M-78/SEVEN21/seven21 02.webp"
+    ]
+}

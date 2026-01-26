@@ -1,0 +1,53 @@
+{
+    "name": "ゾフィー",
+    "name_en": "ZOFFY",
+    "mainImage": "image/M-78/ZOFFY/zoffy icon.jpg",
+    "description": "ウルトラ兄弟の長男であり、宇宙警備隊の隊長。M87光線をはじめとする強力な光線技を操る、頼れるリーダー。胸と肩にある「スターマーク」は、数々の武功を立てた戦士の証である。",
+    "abilitiesTitle": "主な能力",
+    "abilities": [
+        {
+            "name": "M87光線",
+            "description": "ウルトラ兄弟最強の威力を持つとされる必殺光線。左腕を前に突き出して放つAタイプと、右腕をL字に組んで放つBタイプがある。"
+        },
+        {
+            "name": "Z光線",
+            "description": "両腕を十字に組んで放つ、怪獣を痺れさせる効果を持つ光線。"
+        },
+        {
+            "name": "ウルトラフロスト",
+            "description": "冷凍ガスを敵に吹き付け、凍結させる技。"
+        },
+        {
+            "name": "スペシウム光線",
+            "description": "初代ウルトラマンも使う必殺技。威力は初代のものより劣るとされる。"
+        },
+        {
+            "name": "八つ裂き光輪（ウルトラスラッシュ）",
+            "description": "エネルギーを円盤状に固めて投げつけ、敵を切断する技。"
+        },
+        {
+            "name": "ウルトラバリヤー",
+            "description": "敵の攻撃を防ぐエネルギーの壁を作り出す防御技。"
+        },
+        {
+            "name": "ウルトラ念力",
+            "description": "念力で物体を動かす超能力。"
+        },
+        {
+            "name": "テレポーテーション",
+            "description": "長距離を瞬間移動する超能力。多用するとエネルギーを消耗する。"
+        }
+    ],
+    "gallery": [
+         "image/M-78/ZOFFY/zoffy.jfif",
+        "image/M-78/ZOFFY/zoffy01.jpg",
+        "image/M-78/ZOFFY/zoffy02.jpg",
+        "image/M-78/ZOFFY/zoffy03.jpg",
+        "image/M-78/ZOFFY/zoffy04.jpg",
+        "image/M-78/ZOFFY/zoffy05.jpg",
+        "image/M-78/ZOFFY/zoffy06.jpg",
+        "image/M-78/ZOFFY/zoffy07.jpg",
+        "image/M-78/ZOFFY/zoffyhikari.jpg",
+         "image/M-78/ZOFFY/Zoffy.jpg"
+    ]
+}

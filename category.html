@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ウルトラマンシリーズ</title>
+    <link rel="icon" href="image/icons/X.jfif">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/base.css">
+    <link rel="stylesheet" href="css/category.css">
+</head>
+<body>
+    <!-- 新的、标准化的 Header -->
+    <header>
+        <!-- 这个 header-content 容器会通过 CSS 居中 -->
+        <div class="header-content">
+            <h1><a href="index.html">ULTRA</a></h1>
+            <nav>
+                <ul>
+                    <li><a href="category.html?series=m78_l77">M-78 / L-77</a></li>
+                    <li><a href="category.html?series=earth">地球</a></li>
+                    <li><a href="category.html?series=o50">O-50</a></li>
+                    <li><a href="category.html?series=u40">U-40</a></li>
+                    <li><a href="category.html?series=z95">Z-95</a></li>
+                    <li><a href="category.html?series=n_project">N Project</a></li>
+                    <li><a href="category.html?series=other">その他</a></li>
+                </ul>
+            </nav>
+            <div class="user-info" id="auth-status">
+                <!-- 登录状态会显示在这里 -->
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <h2 id="category-title"></h2>
+        <div id="ultraman-list" class="ultraman-grid">
+            <!-- Ultraman data will be injected here by JavaScript -->
+        </div>
+    </main>
+
+    <footer class="text-center mt-4">
+        <p>&copy; 2025 Ultra</p>
+    </footer>
+
+    <script src="js/auth.js"></script>
+    <script src="js/category.js"></script>
+</body>
+</html>

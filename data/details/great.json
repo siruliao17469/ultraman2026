@@ -1,0 +1,36 @@
+{
+    "name": "ウルトラマン グレート",
+    "name_en": "ULTRAMAN GREAT",
+    "mainImage": "image/M-78/GREAT/GREAT ICON.jpg",
+    "description": [
+        "オーストラリアで活躍した、M78星雲出身のウルトラマン。",
+        "ジャック・シンドーと一体化し、地球の環境破壊が生み出した怪獣たちと戦った。",
+        "その戦いは、地球人自身が未来を考えるきっかけとなった。"
+    ],
+    "abilitiesTitle": "主な能力",
+    "abilities": [
+        {
+            "name": "バーニング・プラズマ",
+            "description": "両腕をL字に組んで放つ必殺光線。プラズマエネルギーで敵を焼き尽くす。"
+        },
+        {
+            "name": "グレートスライサー",
+            "description": "手から放つ円盤状のカッター。敵を切り裂く。"
+        },
+        {
+            "name": "マグナムシュート",
+            "description": "拳から放つ強力なエネルギー弾。"
+        },
+        {
+            "name": "パームシューター",
+            "description": "手のひらから連続で放つ小さなエネルギー弾。"
+        }
+    ],
+    "gallery": [
+        "image/M-78/GREAT/G.jfif",
+        "image/M-78/GREAT/GP.jpg",
+        "image/M-78/GREAT/great01.jpg",
+        "image/M-78/GREAT/great02.jpg",
+        "image/M-78/GREAT/Ultraman Great.jpg"
+    ]
+}

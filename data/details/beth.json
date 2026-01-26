@@ -1,0 +1,29 @@
+{
+    "name": "ウルトラウーマンベス",
+    "name_en": "ULTRAWOMAN BETH",
+    "mainImage": "image/M-78/BES/bes icon.jpg",
+    "description": [
+        "ウルトラフォースの一員であり、チームの紅一点。",
+        "冷静沈着な判断力と、華麗な戦闘スタイルが特徴。",
+        "主にサポート役をこなし、仲間を的確に援護する。"
+    ],
+    "abilitiesTitle": "主な能力",
+    "abilities": [
+        {
+            "name": "ウルトラスパウト",
+            "description": "両腕から放つ強力な水流。消火活動や敵の足止めに用いる。"
+        },
+        {
+            "name": "ウルトラチョップ",
+            "description": "手から繰り出す鋭い手刀。連続で放つことも可能。"
+        }
+    ],
+    "weaponsTitle": "武器",
+    "weapons": [],
+    "gallery": [
+        "image/M-78/BES/BES.jpg",
+        "image/M-78/BES/Beth.jpg",
+        "image/M-78/BES/bes icon.jpg",
+        "image/M-78/BES/bes04.jpg"
+    ]
+}

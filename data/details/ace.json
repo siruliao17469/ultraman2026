@@ -1,0 +1,97 @@
+{
+    "name": "ウルトラマンエース",
+    "name_en": "ULTRAMAN ACE",
+    "mainImage": "image/M-78/ACE/ACE ICON.jpg",
+    "description": [
+        "M78星雲・光の国出身で、ウルトラ兄弟の5番目の弟。「光線技のエース」の異名を持ち、多彩な光線技と切断技を得意とする。",
+        "地球では、北斗星司と南夕子という二人の男女がウルトラリングによって合体変身していたが、物語の途中で南が月星人であることが判明し、仲間のもとへ帰るために分離。以降は北斗が一人で変身して戦った。"
+    ],
+    "abilitiesTitle": "主要能力",
+    "abilities": [
+        {
+            "name": "メタリューム光線",
+            "description": "両腕をL字型に組んで放つエースの必殺光線。"
+        },
+        {
+            "name": "バーチカルギロチン",
+            "description": "頭部のエネルギーを刃状にして敵を垂直に切り裂く。"
+        },
+        {
+            "name": "ウルトラギロチン",
+            "description": "バーチカルギロチンの強化版で、複数の敵を同時に切り裂く。"
+        },
+        {
+            "name": "ギロチンショット",
+            "description": "手から三日月状の光弾を連射する。"
+        },
+        {
+            "name": "ウルトラスラッシュ",
+            "description": "八つ裂き光輪と同様の技。"
+        },
+        {
+            "name": "パンチレーザー",
+            "description": "拳から放つレーザー光線。"
+        },
+        {
+            "name": "ウルトラネオバリア",
+            "description": "強力な円形のバリア。"
+        },
+        {
+            "name": "エースバリヤー",
+            "description": "敵の攻撃を防ぐ光の壁。"
+        },
+        {
+            "name": "サークルバリヤー",
+            "description": "敵を囲むように展開するバリア。"
+        },
+        {
+            "name": "タイマーボルト",
+            "description": "カラータイマーから放つエネルギー光線。"
+        },
+        {
+            "name": "スペースQ",
+            "description": "ウルトラ兄弟のエネルギーを集めて放つ超強力な光球。"
+        },
+        {
+            "name": "ストレート光線",
+            "description": "腕から放つ直線的な光線。"
+        },
+        {
+            "name": "エネルギー光球",
+            "description": "手からエネルギー光球を放つ。"
+        },
+        {
+            "name": "アロー光線",
+            "description": "矢のような形状の光線。"
+        },
+        {
+            "name": "ハンドビーム",
+            "description": "手から放つビーム。"
+        },
+        {
+            "name": "スター光線",
+            "description": "星型の光線を放つ。"
+        },
+        {
+            "name": "バントレーザースペシャル",
+            "description": "強力な破壊光線。"
+        },
+        {
+            "name": "ストップリング",
+            "description": "敵の動きを止める光のリング。"
+        }
+    ],
+    "weaponsTitle": "武器",
+    "weapons": [
+        {
+            "name": "エースブレード",
+            "description": "手に出現させる光の剣。"
+        }
+    ],
+    "gallery": [
+        "image/M-78/ACE/ace.webp",
+        "image/M-78/ACE/ace01.jpg",
+        "image/M-78/ACE/ace02.jpg",
+        "image/M-78/ACE/Ultraman Ace.jpg"
+    ]
+}

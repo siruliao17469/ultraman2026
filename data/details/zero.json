@@ -1,0 +1,63 @@
+{
+    "name": "ウルトラマン ゼロ",
+    "name_en": "ULTRAMAN ZERO",
+    "mainImage": "image/M-78/ZERO/zore icon.jpg",
+    "description": "ウルトラマンゼロはウルトラセブンの息子であり、光の国の新世代の若きウルトラ戦士。無限の可能性を秘めており、光の国最強のウルトラ戦士の一人とされている。",
+    "abilitiesTitle": "主な能力",
+    "abilities": [
+        {
+            "name": "プラズマスパークスラッシュ",
+            "description": "頭部の2本のスラッガーから放つ強力な光線技。"
+        },
+        {
+            "name": "ワイドゼロショット",
+            "description": "両腕を組んで放つ強力な光線で、ゼロの決め技の一つ。"
+        },
+        {
+            "name": "エメリウムスラッシュ",
+            "description": "額のビームランプから放つ光線。ウルトラセブンのエメリウム光線に似ている。"
+        },
+        {
+            "name": "ゼロツインシュート",
+            "description": "両腕をL字型に組んで放つ必殺光線。ワイドゼロショットより強力。"
+        }
+    ],
+    "weaponsTitle": "武器",
+    "weapons": [
+        {
+            "name": "ゼロスラッガー",
+            "description": "父セブンから受け継いだ宇宙ブーメラン。投擲武器や切断武器として使用する。"
+        },
+        {
+            "name": "プラズマスパークソード",
+            "description": "プラズマスパークのエネルギーによって形成される剣。威力は絶大。"
+        },
+        {
+            "name": "ウルティメイトイージス",
+            "description": "ウルティメイトアーマーの一部。攻撃を防ぐ盾であり、弓矢形態に変形して攻撃することも可能。"
+        }
+    ],
+    "gallery": [
+        "image/M-78/ZERO/zero01.jpg",
+        "image/M-78/ZERO/zero02.jpg",
+        "image/M-78/ZERO/zero03.jpg",
+        "image/M-78/ZERO/zero04.jpg",
+        "image/M-78/ZERO/zero05.jpg",
+        "image/M-78/ZERO/zero06.jpg",
+        "image/M-78/ZERO/zero07.jpg",
+        "image/M-78/ZERO/zero08.jpg",
+        "image/M-78/ZERO/zero09.jpg",
+        "image/M-78/ZERO/noa.jpg",
+        "image/M-78/ZERO/zore.jpg",
+        "image/M-78/ZERO/Ultraman Zero.jpg",
+        "image/M-78/ZERO/Ultraman Zero00.jpg",
+        "image/M-78/ZERO/Ultraman Zero01.jpg",
+        "image/M-78/ZERO/Ultraman Zero02.jpg",
+        "image/M-78/ZERO/Ultraman Zero03.jpg",
+        "image/M-78/ZERO/Ultraman Zero04.jpg",
+        "image/M-78/ZERO/Ultraman Zero05.jpg",
+        "image/M-78/ZERO/Ultraman Zero06.jpg",
+        "image/M-78/ZERO/Ultraman Zero07.jpg",
+        "image/M-78/ZERO/Ultraman Zero08.jpg"
+    ]
+}

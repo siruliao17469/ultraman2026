@@ -1,0 +1,29 @@
+{
+    "name": "ウルトラマン キング",
+    "name_en": "ULTRAMAN KING",
+    "mainImage": "image/M-78/KING/KING ICON.webp",
+    "description": [
+        "ウルトラ族の伝説の超人。年齢は30万歳以上とされ、光の国のプラズマスパークの危機を救ったこともある。",
+        "普段はキング星に一人で住んでいるが、宇宙に大きな危機が訪れた時に姿を現す。",
+        "その能力は計り知れない。"
+    ],
+    "abilitiesTitle": "主な能力",
+    "abilities": [
+        {
+            "name": "キングハンマー",
+            "description": "敵を打ち砕く強力なハンマー。通常は縮小してベルトに装着している。"
+        },
+        {
+            "name": "キングフラッシャー",
+            "description": "目から放つ光線。敵を石化させたり、再生させたりする。"
+        },
+        {
+            "name": "キングスパーク",
+            "description": "手から放つ強力な破壊光線。"
+        }
+    ],
+    "gallery": [
+        "image/M-78/KING/Ultraman King.jpg",
+        "image/M-78/KING/Ultraman King Cape.jpg"
+    ]
+}

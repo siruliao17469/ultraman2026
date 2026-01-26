@@ -1,0 +1,42 @@
+{
+    "name": "ウルトラマンヒカリ",
+    "name_en": "ULTRAMAN HIKARI",
+    "mainImage": "image/M-78/HIKARI/HIKARI ICON.jpg",
+    "description": [
+        "M78星雲・光の国出身の科学者。",
+        "かつて復讐心から「ハンターナイト ツルギ」として活動していたが、ウルトラマンメビウスとの出会いを経て本来の姿を取り戻した。",
+        "メビウスにナイトブレスを託し、彼をサポートする。"
+    ],
+    "abilitiesTitle": "主な能力",
+    "abilities": [
+        {
+            "name": "ナイトシュート",
+            "description": "ナイトビームブレードから放つ強力な光線。"
+        },
+        {
+            "name": "ホットロードフラッシュ",
+            "description": "腕から放つ衝撃波。敵の動きを封じる。"
+        }
+    ],
+    "weaponsTitle": "武器",
+    "weapons": [
+        {
+            "name": "ナイトビームブレード",
+            "description": "右腕に装着された光の剣。切れ味は非常に鋭い。"
+        },
+        {
+            "name": "ナイトブレス",
+            "description": "ヒカリがメビウスに託したブレスレット。メビウスをメビウスブレイブへとパワーアップさせる。"
+        }
+    ],
+    "gallery": [
+        "image/M-78/HIKARI/hikari01.webp",
+        "image/M-78/HIKARI/hikari02.avif",
+        "image/M-78/HIKARI/hikari03.jpg",
+        "image/M-78/HIKARI/hikari04.avif",
+        "image/M-78/HIKARI/hikari08.webp",
+        "image/M-78/HIKARI/hikari09.jpg",
+        "image/M-78/HIKARI/Ultraman Hikari.jpg",
+        "image/M-78/HIKARI/Tsurugi.jpg"
+    ]
+}

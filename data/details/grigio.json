@@ -1,0 +1,24 @@
+{
+    "name": "ウルトラウーマングリージョ",
+    "name_en": "ULTRAWOMAN GRIGIO",
+    "mainImage": "image/O-50/GRIGIO/G ICON.jpg",
+    "description": "湊アサヒが変身するウルトラウーマン。戦闘は得意ではないが、防御能力とサポート能力に長けている。「ハッピー！」が口癖。",
+    "abilitiesTitle": "必殺技",
+    "abilities": [
+        {
+            "name": "グリージョチアチャージ",
+            "description": "仲間のウルトラマンにエネルギーを分け与え、回復させる能力。"
+        },
+        {
+            "name": "グリージョバリア",
+            "description": "強力な防御壁を作り出し、敵の攻撃を防ぐ。"
+        }
+    ],
+    "gallery": [      
+        "image/O-50/GRIGIO/G01.jpg",
+        "image/O-50/GRIGIO/GF.jpg",
+        "image/O-50/GRIGIO/GRB.jpg",
+        "image/O-50/GRIGIO/Ultrawoman Grigio.jpg",
+        "image/O-50/GRIGIO/Ultraman Groob.jpg"
+    ]
+}
