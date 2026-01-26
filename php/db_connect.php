@@ -1,10 +1,10 @@
 <?php
 // --- 数据库连接配置 ---
-$servername = "localhost"; // 服务器地址
-$username = "root";      // 数据库用户名
-$password = "";          // 数据库密码
-$dbname = "ultra_db";    // 数据库名
-$charset = "utf8mb4";    // 字符集
+$servername = "localhost";
+$username = "root";
+$password = "123456";   
+$dbname = "ultra_db";
+$charset = "utf8mb4";
 
 // --- 创建数据库连接 (使用 PDO) ---
 try {
